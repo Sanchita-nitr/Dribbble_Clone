@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Dribbble_Clone/static/css/main.fe276514.css",
+    "main.js": "/Dribbble_Clone/static/js/main.795a0ebb.js",
+    "static/js/453.3669db72.chunk.js": "/Dribbble_Clone/static/js/453.3669db72.chunk.js",
+    "index.html": "/Dribbble_Clone/index.html",
+    "main.fe276514.css.map": "/Dribbble_Clone/static/css/main.fe276514.css.map",
+    "main.795a0ebb.js.map": "/Dribbble_Clone/static/js/main.795a0ebb.js.map",
+    "453.3669db72.chunk.js.map": "/Dribbble_Clone/static/js/453.3669db72.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe276514.css",
+    "static/js/main.795a0ebb.js"
+  ]
+}
