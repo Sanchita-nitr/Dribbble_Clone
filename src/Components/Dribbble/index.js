@@ -15,7 +15,7 @@ function Index() {
             <div className="  bg-neutral-50">
                 <nav className="p-6">
                     <ul className="flex flex-wrap text-center items-center font-bold text-sm ">
-                        <li className=" -ml-3 inline-block lg:hidden text-xl"> <HiOutlineMenuAlt2 /></li>
+                        <li className=" -ml-4 inline-block lg:hidden text-lg"> <HiOutlineMenuAlt2 /></li>
                         <li className="  hidden lg:inline-block  "> Find designers</li>
                         <li className=" hidden lg:inline-block ml-10">Inspiration</li>
                         <li className=" hidden lg:inline-block ml-10">Courses</li>
