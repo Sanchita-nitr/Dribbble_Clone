@@ -1,4 +1,23 @@
-.container img {
+
+ul li ul.subitem_1 li{
+  display: block;
+}
+
+ul li ul.dropdown{
+  position: absolute;
+  z-index: 999;
+  display: none;
+}
+
+ul li a:hover{
+  color:rgba(63, 62, 62, 0.818);
+}
+
+ul li:hover ul.dropdown{
+  display: block;
+}
+
+}.container img {
   position: relative;
   display: inline-block;
 }
