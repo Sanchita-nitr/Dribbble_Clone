@@ -193,12 +193,12 @@ function Index() {
 
                     <ul className="flex flex-wrap items-center mt-3 text-sm  text-gray-500 font-semibold">
                         <li className="flex flex-wrap">
-                            <li className="mt-3 ml-10 md:ml-32 lg:ml-72 ">Jobs</li>
-                            <li className="mt-3 ml-4 lg:ml-10">Designers</li>
-                            <li className="mt-3 ml-4 lg:ml-10">Freelancers</li>
-                            <li className="mt-3 ml-4 lg:ml-10">Tags</li>
-                            <li className="mt-3 ml-4 lg:ml-10">Places</li>
-                            <li className="mt-4 ml-44 md:ml-4 lg:ml-10 ">Resources</li>
+                            <li className="mt-3 ml-10 md:ml-32 lg:ml-72 lg:mt-0">Jobs</li>
+                            <li className="mt-3 ml-4 lg:ml-10 lg:mt-0">Designers</li>
+                            <li className="mt-3 ml-4 lg:ml-10 lg:mt-0">Freelancers</li>
+                            <li className="mt-3 ml-4 lg:ml-10 lg:mt-0">Tags</li>
+                            <li className="mt-3 ml-4 lg:ml-10 lg:mt-0">Places</li>
+                            <li className="mt-4 ml-44 md:ml-4 lg:ml-10 lg:mt-0">Resources</li>
                         </li>
 
                     </ul>
