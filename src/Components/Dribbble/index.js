@@ -1,4 +1,3 @@
-
 import { CiSearch } from "react-icons/ci";
 import { FaFacebook, FaInstagram, FaPinterest, FaTwitter } from "react-icons/fa";
 import { IoIosHeart, IoMdEye } from "react-icons/io";
@@ -6,7 +5,6 @@ import './style.css';
 
 import { HiOutlineMenuAlt2 } from "react-icons/hi";
 // import { RxCross1 } from "react-icons/rx";
-// import { useState } from 'react';
 
 function Index() {
 
